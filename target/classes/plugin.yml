@@ -1,0 +1,9 @@
+name: ReportAms
+description: El plugin ReportAms de davidams789
+author: davidams789
+main: me.davidams789.ReportAms.Main
+version: 0.0.1
+
+commands:
+  report:
+    description: El comando Report del plugin RpeortAms
